@@ -1,4 +1,6 @@
-package org.example.data;
+package data;
+
+import gestioncafeteria.Cafeteria;
 
 public class ArchivoCafeteria {
 	private String _rutaArchivo;

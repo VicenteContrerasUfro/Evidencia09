@@ -1,6 +1,8 @@
-package org.example.data;
+package data;
 
 import gestioncafeteria.Cafe;
+
+import java.util.List;
 
 public class ArchivoCafe {
 	private String _rutaArchivo;
